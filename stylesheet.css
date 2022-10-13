@@ -16,3 +16,11 @@ h1 {
     font-size: 20px;
     color: #576191; 
 }
+
+a {
+    color: rgb(30, 85, 148);
+}
+
+a:hover {
+    color: hotpink;
+}
