@@ -3,8 +3,6 @@ body {
     padding: 0;
     font-family: "Consolas", Helvetica, Arial, sans-serif;
     background-color: #fcfaf6;
-    border-style: solid;
-    border-color: rgb(99, 72, 14);
 }
 
 h1 {
@@ -12,6 +10,8 @@ h1 {
     font-size: 60px;
     color: #f07de4; 
     text-align: center;
+    border-style: solid;
+    border-color: rgb(99, 72, 14);
 }
 
 h2 {
