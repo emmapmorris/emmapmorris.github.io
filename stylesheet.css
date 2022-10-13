@@ -6,8 +6,9 @@ body {
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 60px;
     color: #940686; 
+    align-items: center;
 }
 
 .custom {
