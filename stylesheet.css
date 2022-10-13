@@ -8,16 +8,19 @@ body {
 h1 {
     margin-left: 0;
     margin-right: 0;
-    font-size: 60px;
-    color: #c924b6; 
     text-align: center;
     border-style: solid;
     border-color: rgb(99, 72, 14);
 }
 
-h2 {
+.subHeader {
     font-size: 40px;
-    color: #a047c9
+    color: rgb(99, 72, 14);
+}
+
+#PepperTitle {
+    font-size: 80px;
+    color: #c924b6; 
 }
 
 p {
@@ -26,7 +29,7 @@ p {
 }
 
 .custom {
-    font-size: 30px;
+    font-size: 25px;
     color: #a047c9; 
     text-align: center;
 }
