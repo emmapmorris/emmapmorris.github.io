@@ -8,13 +8,13 @@ body {
 h1 {
     margin-left: 20px;
     font-size: 60px;
-    color: #940686; 
+    color: #f07de4; 
     text-align: center;
 }
 
 .custom {
     font-size: 20px;
-    color: #576191; 
+    color: #b284e6; 
     text-align: center;
 }
 
@@ -23,7 +23,7 @@ a {
 }
 
 a:hover {
-    color: hotpink;
+    color: #f07de4;
 }
 
 .image {
