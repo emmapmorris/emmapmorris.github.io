@@ -8,7 +8,7 @@ body {
 h1 {
     margin-left: 20px;
     font-size: 60px;
-    color: #f07de4; 
+    color: #c924b6; 
     text-align: center;
     border-style: solid;
     border-color: rgb(99, 72, 14);
@@ -16,7 +16,7 @@ h1 {
 
 .custom {
     font-size: 20px;
-    color: #b284e6; 
+    color: #a047c9; 
     text-align: center;
 }
 
@@ -25,7 +25,7 @@ a {
 }
 
 a:hover {
-    color: #f07de4;
+    color: #c924b6;
 }
 
 .image {
