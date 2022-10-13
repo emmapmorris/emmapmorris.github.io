@@ -2,17 +2,15 @@ body {
     margin: 0;
     padding: 0;
     font-family: "Consolas", Helvetica, Arial, sans-serif;
-    font-size: 40px;
-    color: #ff96f5; 
     background-color: #202020;
 }
 
 h1 {
-    font-size: 20px;
+    font-size: 40px;
     color: #940686; 
 }
 
 .custom {
-    font-size: 10px;
+    font-size: 20px;
     color: #576191; 
 }
